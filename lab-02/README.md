@@ -3,7 +3,7 @@
 **Student Name:** G. Manoj Kumar Reddy · **Registration Number:** 252U1R3076 · **Section:** CSE-DS-2B(307)  
 **Course:** Backend Development Fundamentals (Year II Term II) · **Institution:** Aurora Deemed to be University  
 **GitHub Repository:** [https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals/tree/main/lab-02](https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals/tree/main/lab-02)  
-**Live Link:** [https://backend-development-fundamentals-manoj-lab-2.vercel.app](https://backend-development-fundamentals-manoj-lab-2.vercel.app) *(or deploy via Vercel / Render)*
+**Live Link:** [https://lab-02-7c9z4ykn3-gmkr1.vercel.app](https://lab-02-7c9z4ykn3-gmkr1.vercel.app)
 
 ---
 
