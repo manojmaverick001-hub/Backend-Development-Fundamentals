@@ -14,7 +14,7 @@
 | Lab | Title | Description | Directory |
 | :--- | :--- | :--- | :--- |
 | **Lab 01** | **Node.js and Express server** | Built-in HTTP module, Express routing, status codes, and 404 handling. | [`lab-01/`](./lab-01) |
-| **Lab 02** | *Upcoming* | *To be added* | `lab-02/` |
+| **Lab 02** | **SQLite database and CRUD routes** | Connecting SQLite database, parameterized queries, and full CRUD endpoints. | [`lab-02/`](./lab-02) |
 | **Lab 03** | *Upcoming* | *To be added* | `lab-03/` |
 | **Lab 04** | *Upcoming* | *To be added* | `lab-04/` |
 | **Lab 05** | *Upcoming* | *To be added* | `lab-05/` |
