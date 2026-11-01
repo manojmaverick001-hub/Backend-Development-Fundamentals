@@ -13,7 +13,7 @@ app.get('/about', (request, response) => {
   response.json({
     name: 'G.Manoj Kumar Reddy',
     regNo: '252U1R3076',
-    section: 'CSE-DS-2D(307)',
+    section: 'CSE-DS-2B(307)',
     course: 'Backend Development Fundamentals',
     lab: 'Lab 1: Node.js and Express server'
   });

@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express server
 
-**Student Name:** G. Manoj Kumar Reddy · **Registration Number:** 252U1R3076 · **Section:** CSE-DS-2D(307)  
+**Student Name:** G. Manoj Kumar Reddy · **Registration Number:** 252U1R3076 · **Section:** CSE-DS-2B(307)  
 **Course:** Backend Development Fundamentals (Year II Term II) · **Institution:** Aurora Deemed to be University  
 **Repository Link:** [https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals/tree/main/lab-01](https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals/tree/main/lab-01)  
 **Live Link:** [https://backend-development-fundamentals-manoj.vercel.app](https://backend-development-fundamentals-manoj.vercel.app) *(or deploy via Vercel / Render)*
@@ -55,7 +55,7 @@ Create a `.env` file in the `lab-01/` directory if custom ports are needed (opti
 PORT=3000
 STUDENT_NAME=G.Manoj Kumar Reddy
 STUDENT_REG_NO=252U1R3076
-STUDENT_SECTION=CSE-DS-2D(307)
+STUDENT_SECTION=CSE-DS-2B(307)
 ```
 *(Note: Never commit `.env` to Git. A `.env.example` template is provided).*
 
