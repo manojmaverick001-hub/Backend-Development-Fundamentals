@@ -2,7 +2,7 @@
 
 **Student Name:** G. Manoj Kumar Reddy  
 **Registration Number:** `252U1R3076`  
-**Section:** `CSE-DS-2D(307)`  
+**Section:** `CSE-DS-2B(307)`  
 **Course:** Backend Development Fundamentals (Year II Term II)  
 **Institution:** Aurora Deemed to be University  
 **Repository:** [https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals](https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals)  
