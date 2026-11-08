@@ -7,9 +7,13 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "keywords": [
     "express",
     "sqlite",
+    "sqlite3",
     "rest-api",
     "crud"
   ],
@@ -25,4 +29,3 @@
     "nodemon": "^3.1.14"
   }
 }
-
