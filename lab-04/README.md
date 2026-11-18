@@ -4,7 +4,7 @@
 **Course:** Backend Development Fundamentals (Year II Term II) · **Institution:** Aurora Deemed to be University  
 **Faculty:** Yugandhar Sir  
 **Repository Link:** [https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals/tree/main/lab-04](https://github.com/manojmaverick001-hub/Backend-Development-Fundamentals/tree/main/lab-04)  
-**Live Link:** Not deployed (Runs locally with persistent SQLite database file `userData.db`; complete Postman verification screenshots included for every endpoint below)
+**Live Link:** [https://backend-development-fundamentals-2pre-x7ecb2alw-gmkr1.vercel.app](https://backend-development-fundamentals-2pre-x7ecb2alw-gmkr1.vercel.app)
 
 ---
 
