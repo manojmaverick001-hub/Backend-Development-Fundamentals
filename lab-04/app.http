@@ -1,0 +1,64 @@
+### Environment
+@baseUrl = http://localhost:3000
+
+### 1. Root / Welcome Route
+GET {{baseUrl}}/
+
+### 2. POST /register/ - Register a new user (Success)
+POST {{baseUrl}}/register/
+Content-Type: application/json
+
+{
+  "username": "suresh",
+  "name": "Suresh Kumar",
+  "password": "suresh@password123"
+}
+
+### 3. POST /register/ - Duplicate username (Failure: 400 Bad Request)
+POST {{baseUrl}}/register/
+Content-Type: application/json
+
+{
+  "username": "suresh",
+  "name": "Suresh Duplicate",
+  "password": "suresh@password123"
+}
+
+### 4. POST /register/ - Missing fields (Failure: 400 Bad Request)
+POST {{baseUrl}}/register/
+Content-Type: application/json
+
+{
+  "username": "incomplete_user"
+}
+
+### 5. POST /login/ - Successful Login (Returns jwt_token)
+POST {{baseUrl}}/login/
+Content-Type: application/json
+
+{
+  "username": "suresh",
+  "password": "suresh@password123"
+}
+
+### 6. POST /login/ - Unknown User (Failure: 400 Bad Request)
+POST {{baseUrl}}/login/
+Content-Type: application/json
+
+{
+  "username": "non_existent_user",
+  "password": "anypassword"
+}
+
+### 7. POST /login/ - Incorrect Password (Failure: 400 Bad Request)
+POST {{baseUrl}}/login/
+Content-Type: application/json
+
+{
+  "username": "suresh",
+  "password": "wrongpassword123"
+}
+
+### 8. GET /users/ - Verify database stores hashes only
+GET {{baseUrl}}/users/
+

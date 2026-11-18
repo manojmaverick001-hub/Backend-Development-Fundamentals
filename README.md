@@ -16,7 +16,7 @@
 | **Lab 01** | **Node.js and Express server** | Built-in HTTP module, Express routing, status codes, and 404 handling. | [`lab-01/`](./lab-01) |
 | **Lab 02** | **SQLite database and CRUD routes** | Connecting SQLite database, parameterized queries, and full CRUD endpoints. | [`lab-02/`](./lab-02) |
 | **Lab 03** | **REST API, query parameters, validation, debugging** | RESTful book API with search, filtering, sorting, pagination, strict body validation, and error handling. | [`lab-03/`](./lab-03) |
-| **Lab 04** | *Upcoming* | *To be added* | `lab-04/` |
+| **Lab 04** | **Registration, login and JWT** | User authentication with bcrypt password hashing, SQLite parameterized queries, and JWT token issuance. | [`lab-04/`](./lab-04) |
 | **Lab 05** | *Upcoming* | *To be added* | `lab-05/` |
 | **Lab 06** | *Upcoming* | *To be added* | `lab-06/` |
 | **Lab 07** | *Upcoming* | *To be added* | `lab-07/` |
